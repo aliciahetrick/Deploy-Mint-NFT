@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Taylor Swift"
+    },
+    {
+      "trait_type": "Album",
+      "value": "Midnights"
+    }
+  ],
+  "description": "Taylor Swift's 10th studio album",
+  "image": "ipfs://QmZeWp25jajMQYauqhtR9F3VjKVCL4ShwAphGuSbeYDdrY",
+  "name": "Midnights"
+}
